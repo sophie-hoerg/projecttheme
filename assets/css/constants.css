@@ -1,0 +1,26 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary: rgb(0, 96, 134);
+  --theme-color-secondary: #FFF2E3;
+  --theme-color-tertiary: #E84E0F;
+  --theme-color-accent: #799E1A;
+  --theme-color-accent-2: #FDB133;
+  --theme-color-body: #ffffff;
+
+
+  --theme-transition: all 0.3s ease-in-out;
+
+  --theme-font-body: "IBM Plex Sans", Arial, sans-serif;
+  --theme-font-caption: "IBM Plex Sans", Arial, sans-serif;
+  --theme-font-subheading: "IBM Plex Sans", Arial, sans-serif;
+  --theme-font-heading: "PoetsenOne", Arial, sans-serif;
+
+  --theme-font-size-base:20px;
+  --theme-line-height-body:1.4;
+  --theme-line-height-heading:1.1;
+}
+
